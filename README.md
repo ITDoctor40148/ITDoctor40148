@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 ![ITDoctor40148's github stats](https://github-readme-stats.vercel.app/api?username=ITDoctor40148&count_private=true&show_icons=true&custom_title=stats%20yo&theme=radical)
 
-[![ITDoctor40148's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ITDoctor40148)](https://github.com/anuraghazra/github-readme-stats)
+[![ITDoctor40148's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ITDoctor40148)](https://github.com/ITDoctor40148)
